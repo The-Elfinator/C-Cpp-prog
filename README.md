@@ -8,9 +8,9 @@ A directory with an examples of code on __C programming language__
 ## CppExamples
 A directory with an examples of code on __C++ programming language__
 
-## Lab_number of laboratory work_name of laboratory work_
-A directory with a code of labs:
-  # lab1 - Gauss method for linear equations system on C
-  # lab2 - Converter from PNG to PNM format of image on C
-  # lab3 - Quicksort with templates on C++
-  # lab4 - BigInteger class on C++
+## Laboratory works 1-4
+Lab<_number of laboratory work_><_name of laboratory work_> - a directory with a code of labs:
+  * lab1 - Gauss method for linear equations system on C
+  * lab2 - Converter from PNG to PNM format of image on C
+  * lab3 - Quicksort with templates on C++
+  * lab4 - BigInteger class on C++
